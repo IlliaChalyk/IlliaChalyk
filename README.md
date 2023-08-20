@@ -6,4 +6,4 @@ web applications using *Java*, *JavaScript*, *Spring*, *React*, *PostgreSQL*, *M
 **Reach me at [LinkedIn](https://www.linkedin.com/in/illia-chalyk/) 💬**
 
 #
-**Random fact**: CAPTCHA stands for the Completely Automated Public Turing test to tell Computers and Humans Apart 🤯
+ 🤯 **Random fact:** CAPTCHA stands for the Completely Automated Public Turing test to tell Computers and Humans Apart
