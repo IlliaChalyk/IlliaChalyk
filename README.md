@@ -1,6 +1,6 @@
 # Hey, I'm ILLIA 👨‍💻
 
-I'm a passionate(dah) software engineer with three years of experience in building scalable, result-oriented 
+I'm a passionate(dah) software engineer with three years of experience building scalable, result-oriented 
 web applications using *Java*, *JavaScript*, *Spring*, *React*, *PostgreSQL*, *MongoDB*, *AWS*, *Docker* and many more...
 
 **Reach me at [LinkedIn](https://www.linkedin.com/in/illia-chalyk/) 💬**
